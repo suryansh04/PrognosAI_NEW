@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30404461655",
+    "project_id": "prognos-new",
+    "storage_bucket": "prognos-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30404461655:android:56b277f1872d3100284f12",
+        "android_client_info": {
+          "package_name": "com.example.prognosai_iic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh6aquhpksnCTb7z2lSH0BmkUMCPZ1-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
